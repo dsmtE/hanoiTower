@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "lib": ["es6", "ES2017", "dom"],
+        "types": [
+            "three"
+        ],
+        "noEmitOnError": false,
+    }
+}
